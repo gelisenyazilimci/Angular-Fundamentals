@@ -1,0 +1,1 @@
+Buradaki notlarımı okuyan kişilere seslenmek istiyorum. Kurulum kısmını anlatmayacağım çünkü direkt not alıyorum. Angular nasıl kurulur diye sorular sormayın diye youtube üzerine **Angular Nasıl Kurulur** yazı direkt çıkıyor karşınıza videolar. Anlayışınız için teşekkürler
